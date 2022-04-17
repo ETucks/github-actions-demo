@@ -1,4 +1,4 @@
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+[![AWS Amazon Linux 2 3.7.9](https://github.com/ETucks/github-actions-demo/actions/workflows/aws-linux2.yml/badge.svg)](https://github.com/ETucks/github-actions-demo/actions/workflows/aws-linux2.yml)
 
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
